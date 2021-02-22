@@ -7,3 +7,6 @@ I will be using this space to update what I actually want to work on for this we
 * About Page
 * Blog
   * Will need subpages
+
+## random notes
+* use Jekyll for blog host
