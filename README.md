@@ -20,12 +20,19 @@ Individual theme feedback and bug reports should be submitted to the theme's ind
 
 ## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Rems, `font-size`, and scaling](#rems-font-size-and-scaling)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+- [Poole](#poole)
+  - [Contents](#contents)
+  - [Usage](#usage)
+    - [1. Install dependencies](#1-install-dependencies)
+    - [2a. Quick start](#2a-quick-start)
+    - [2b. Roll your own Jekyll site](#2b-roll-your-own-jekyll-site)
+    - [3. Running locally](#3-running-locally)
+    - [4. Serving it up](#4-serving-it-up)
+  - [Options](#options)
+    - [Rems, `font-size`, and scaling](#rems-font-size-and-scaling)
+  - [Development](#development)
+  - [Author](#author)
+  - [License](#license)
 
 
 ## Usage
