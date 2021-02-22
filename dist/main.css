@@ -1,0 +1,26 @@
+body {
+  font-family: "Montserrat";
+  margin: 0;
+  padding: 0;
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+}
+
+section {
+  scroll-snap-align: start;
+  height: 100vh;
+  padding: 7em;
+  height: calc(100vh - 14em);
+}
+section:nth-of-type(1) {
+  background: #60af15;
+  scroll-snap-align: start;
+}
+section:nth-of-type(2) {
+  background: #158baf;
+  scroll-snap-align: start;
+}
+section:nth-of-type(3) {
+  background: #af1581;
+  scroll-snap-align: start;
+}
