@@ -4,7 +4,7 @@
  <title>Jake Kirsch</title>
  <link href="https://www.jakekirsch.com/atom.xml" rel="self"/>
  <link href="https://www.jakekirsch.com/"/>
- <updated>2021-02-25T11:37:59-05:00</updated>
+ <updated>2021-02-25T11:41:41-05:00</updated>
  <id>https://www.jakekirsch.com</id>
  <author>
    <name>Jake Kirsch</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hi, I'm Jake</title>
-   <link href="https://www.jakekirsch.com/2014/01/02/hi-im-jake/"/>
-   <updated>2014-01-02T00:00:00-05:00</updated>
-   <id>https://www.jakekirsch.com/2014/01/02/hi-im-jake</id>
+   <link href="https://www.jakekirsch.com/2021/02/25/hi-im-jake/"/>
+   <updated>2021-02-25T00:00:00-05:00</updated>
+   <id>https://www.jakekirsch.com/2021/02/25/hi-im-jake</id>
    <content type="html">&lt;p&gt;This probably looks different and that is good&lt;/p&gt;
 </content>
  </entry>
