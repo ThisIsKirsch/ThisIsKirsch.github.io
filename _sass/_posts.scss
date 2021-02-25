@@ -6,6 +6,13 @@
 .page,
 .post {
   margin-bottom: 4em;
+  p{
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+      color: #84BE6A;
+    }
+  }
 }
 
 // Blog post or page title
@@ -13,6 +20,11 @@
 .post-title,
 .post-title a {
   color: #303030;
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    color: #fed8b1;
+  }
 }
 .page-title,
 .post-title {
@@ -25,6 +37,11 @@
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  &:hover,
+  &:focus {
+  text-decoration: underline;
+  color:#efef00;
+  }
 }
 
 

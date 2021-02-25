@@ -15,6 +15,11 @@
 
   a {
     color: #505050;
+    &:hover,
+    &:focus {
+    text-decoration: underline;
+    color: lightcoral;
+  }
   }
 
   small {
