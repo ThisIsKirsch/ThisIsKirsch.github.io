@@ -3,7 +3,7 @@ layout: post
 title: What I Talk About When I Talk About Running by Haruki Murakami
 ---
 
-It feels right for me to write about this book as the first blog post on this blog, since I just ran my second marathon of my life. 
+It feels right for me to write about this book as the first blog post on this blog, since I just ran my second marathon. 
 
 A brief synopsis: the book follows Haruki Murakami as he trains for the New York Marathon. Although the story is told from a first-person perspective, he spends much of the time reflecting on his running and the role that it has played in his life. The book includes parts about how he started running as he was tranisitioning from a jazz bar owner to a writer, running a marathon in the hot heat from Athens, Greece to Marathon, Greece, and the pain of a 64 mile ultramarathon. 
 
